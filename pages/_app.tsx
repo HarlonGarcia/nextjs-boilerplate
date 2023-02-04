@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <title>Teste</title>
         <meta
           name="description"
-          content="An ecommerce project developed with NextJS"
+          content="A nextjs boilerplate to work with TypeScript, ReactJS, NextJS and Styled Components"
         />
       </Head>
       <GlobalStyles />
